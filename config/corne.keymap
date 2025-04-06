@@ -56,8 +56,8 @@
 //         |   |   |   |     |   |   |   |
                         display-name = "2";
                         bindings = <
-   &kp STAR  &kp 7 &kp 8 &kp 9 &kp PLUS       &kp EQUAL &kp LPAR &kp RPAR &kp BLSH &kp DEL
-   &kp FSLH  &kp 4 &kp 5 &kp 6 &kp MINUS      &kp MINUS &kp LBRC &kp RBRC &kp SEMI &kp INS
+   &kp STAR  &kp 7 &kp 8 &kp 9 &kp PLUS       &kp EQUAL &kp LPAR &kp RPAR &kp BSLH  &kp DEL
+   &kp FSLH  &kp 4 &kp 5 &kp 6 &kp MINUS      &kp MINUS &kp LBRC &kp RBRC &kp SEMI  &kp INS
    &kp EQUAL &kp 1 &kp 2 &kp 3 &kp 0          &kp SQT   &kp LBKT &kp RBKT &kp GRAVE &kp LA(F4)
                  &trans &trans &trans         &trans &trans &trans
                         >;
